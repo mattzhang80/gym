@@ -1,2 +1,3 @@
-# gym
-gymmaxxing
+# Workout Tracker
+
+Helps track workouts. 
